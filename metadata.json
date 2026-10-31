@@ -1,0 +1,6 @@
+{
+  "name": "HMAILZ Games 3D",
+  "description": "Play 3D online games with 200K+ players, custom avatars, driving, obby, football, and multiplayer action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
